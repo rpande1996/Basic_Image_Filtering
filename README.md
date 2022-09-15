@@ -102,6 +102,7 @@ python Basic_Image_Filtering.py
 ## Steps
 
 Please choose appropriate image path
+
 Please choose the appropriate option
 ```
 Please select the suitable option:
